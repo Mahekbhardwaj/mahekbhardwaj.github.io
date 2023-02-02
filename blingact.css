@@ -1,0 +1,161 @@
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+body {
+
+    background-color: rgb(229, 229, 229);
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+
+    font-size: 200%;
+    font-style: italic;
+    color: black;
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: black;
+    border-radius:10px ;
+    padding-bottom: 5mm;
+    
+
+}
+
+h4 {
+    font-size: 200%;
+    font-style: italic;
+    color: black;
+    border-style: double;
+    border-width: 0px 0px 3px 0px;
+    border-color: black;
+    padding-bottom: 5mm;
+}
+
+
+.container ul{
+
+    list-style: none;
+    padding: 0%;
+    border-style: double;
+    border-width: 0px 0px 3px 0px;
+    border-color: black;
+    padding-bottom: 5px;
+}
+
+.container ul li {
+
+    list-style:none;
+    font-size: 130%;
+    font-weight:600;
+    display:inline-block;
+    padding: 0%;
+    padding-right: 1cm;
+    
+   
+}
+
+a {
+    text-decoration:none;
+    color: black;
+   
+}
+
+.header2{
+
+    text-align: center;
+
+} 
+
+.container3,.container4 {
+
+    text-align: center;
+
+}
+
+.header2 {
+
+    height: 300px;
+    color: white;
+    background: url(https://lh3.googleusercontent.com/J2hQhzOJk_Vv661stlSpKtjV2JRYY66ESGg4PAhJY8HGaKu2dyluzzyqZpUnuEVrNSIoaB-Z7RjovxoGfYIvJUuCZmI8MmF5CZ_4cqtXz6CPSUvnsi6d6K6IHVWS7JktHL8X-c2s=w2400) left no-repeat,
+    url(https://w0.peakpx.com/wallpaper/40/465/HD-wallpaper-blue-plain.jpg) bottom right no-repeat;
+    background-size:30%,70% ;
+    text-align:right justify;
+    padding-left: 30%;
+    border-radius: 25px;
+}
+
+.polaroid {
+
+    background:rgb(202, 205, 210);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+     0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-left: 30%;
+    width: 40%;
+    border-radius: 25px;
+} 
+
+img {
+    width: 100%;
+    height:4in;
+    display: inline-block;
+    
+}
+
+.pcontainer {
+    padding:10px 20px;
+    text-align: center;
+}
+
+.article1,.article2{
+
+    font-weight: 700;
+
+}
+.container3 {
+
+    height: 6cm;
+    background-color:rgb(42, 120, 165) ;
+    margin-bottom: 0%;
+}
+
+.quote {
+
+    padding: 25mm;
+    font-size: x-large;
+    color: white;
+    font-weight: bold;
+}
+
+h6 {
+
+    font-size: x-large;
+    font-weight:700;
+    font-style:italic;
+    padding-top: 5mm;
+    color: white;
+    text-decoration: underline;
+
+}
+
+.container4{
+
+    height:6cm;
+    background-color: rgb(2, 44, 70);
+    vertical-align: top;
+    margin: 0%;
+    color: white;
+}
+
+/*
+ 
+
+*/
+
